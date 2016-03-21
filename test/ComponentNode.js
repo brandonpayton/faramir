@@ -1,0 +1,4 @@
+// getDefaultProps
+// getInitialState
+// setProps
+// setState
